@@ -8,6 +8,6 @@
    2. two
    3. three
 ```
-[Cv page repository](thomasshub.github.io/cv_page_front/)
+[Cv page repository](https://thomasshub.github.io/cv_page_front/)
 
 ![image](assets/ava.png)
